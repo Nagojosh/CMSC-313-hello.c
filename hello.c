@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(void){
-    printf("Hello teach. My name is <Your Name> and I'm in your CMPE310 class.\n");
+    printf("Hello teach. My name is Joshua Nago and I'm in your CMSC313 class.\n");
     return 0;
 }
